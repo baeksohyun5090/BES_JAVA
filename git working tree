@@ -1,0 +1,6 @@
+#Input
+cd /Users/sseozytank/Analyst/git_practice/.git/ #경로 수정
+git init
+
+#Output
+Initialized empty Git repository in /Users/sseozytank/Analyst/git_practice/.git/
